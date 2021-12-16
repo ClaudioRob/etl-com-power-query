@@ -1,2 +1,4 @@
 # ETL - Power Query
-Projeto desenvolvido no curso Power BI Experience
+Treinamento realizado no curso Power BI Experience - Trilha Express - Modulo 1
+
+
