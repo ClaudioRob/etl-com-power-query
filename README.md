@@ -1,2 +1,2 @@
-# ETL no Power Query
+# ETL - Power Query
 Projeto desenvolvido no curso Power BI Experience
